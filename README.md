@@ -40,6 +40,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,50:F4B8D0,100:E6C5F5&height=100&section=footer" width="100%" alt="Pink wavy footer"/>
 
 
-୨୧ · · ─────── · ♡ · ─────── · · ୨୧
+୨୧ · · ─────── · ⡞⠳⣄⣀⣠⠞⢷ ֹ۪ · ─────── · · ୨୧
 
 </div>
