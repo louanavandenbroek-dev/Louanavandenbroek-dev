@@ -2,17 +2,16 @@
 
 ## ୨୧・a little about me
 
-hii, i'm **Louana**! ♡
+𝓱𝓲𝓲, 𝓲'𝓶 **𝓛𝓸𝓾𝓪𝓷𝓪**! ♡ 
 
- I'm currently studying **software development**  ♡
+ 𝓘'𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓼𝓽𝓾𝓭𝔂𝓲𝓷𝓰 **𝓼𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽**  ♡
 
- i ♡ digital art, 3D modelling & Blender
-
- learning, creating & bringing ideas to life
+ 𝓲 ♡ 𝓭𝓲𝓰𝓲𝓽𝓪𝓵 𝓪𝓻𝓽 , 𝓑𝓵𝓮𝓷𝓭𝓮𝓻 & 𝓶𝓾𝓼𝓲𝓬 ˖ ݁♬⋆.˚𝄞
+ 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰, 𝓬𝓻𝓮𝓪𝓽𝓲𝓷𝓰 & 𝓫𝓻𝓲𝓷𝓰𝓲𝓷𝓰 𝓲𝓭𝓮𝓪𝓼 𝓽𝓸 𝓵𝓲𝓯𝓮
 
 ---
 
- ♡ ・programs i use a lot
+ ♡ ・𝓹𝓻𝓸𝓰𝓻𝓪𝓶𝓼 𝓲 𝓾𝓼𝓮 𝓪 𝓵𝓸𝓽
 
 <div align="center">
 
@@ -25,7 +24,7 @@ hii, i'm **Louana**! ♡
 
 ---
 
- ♡・find me here !
+ ♡・𝓯𝓲𝓷𝓭 𝓶𝓮 𝓱𝓮𝓻𝓮 !
 
 <div align="center">
 
