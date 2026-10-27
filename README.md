@@ -4,7 +4,7 @@
 
 hii, i'm **Louana**! ♡
 
- currently studying **software development**
+ I'm currently studying **software development**  ♡
 
  i ♡ digital art, 3D modelling & Blender
 
