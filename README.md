@@ -4,9 +4,9 @@
 ・a little about me : Hi, i'm Louana! ||| im studying :software development ||| i ♡ digital art & Blender      
 
 
-
-
-
+<div> 
+♡ Programs i use allot:
+</div>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Unity-FADADD?style=for-the-badge&logo=unity&logoColor=7A4863" alt="Unity"/>
