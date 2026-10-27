@@ -14,14 +14,6 @@
 <img src="https://img.shields.io/badge/C%23-E6D5F7?style=for-the-badge&logo=csharp&logoColor=76559B" alt="C sharp"/>
 <img src="https://img.shields.io/badge/GitHub-F7E6EE?style=for-the-badge&logo=github&logoColor=80566B" alt="GitHub"/>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=D879A6&text_color=8B6477&icon_color=E99AB9&ring_color=E99AB9" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FFF5F8&title_color=D879A6&text_color=8B6477" alt="Most used programming languages"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=FFF5F8&ring=E99AB9&fire=D879A6&currStreakLabel=D879A6&sideLabels=8B6477&currStreakNum=8B6477&sideNums=8B6477&dates=B78CA0" alt="GitHub contribution streak"/>
-
 </div>
 
 ・find me here
