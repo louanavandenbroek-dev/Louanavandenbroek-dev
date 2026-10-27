@@ -1,13 +1,18 @@
+---
+
+## ୨୧・a little about me
+
+hii, i'm **Louana**! ♡
+
+ currently studying **software development**
+
+ i ♡ digital art, 3D modelling & Blender
+
+  learning, creating & bringing ideas to life
 
 ---
 
-・a little about me : Hi, i'm Louana! ||| im studying :software development ||| i ♡ digital art & Blender      
-
-
-<div> 
-♡ Programs i use allot:
-</div>
-
+## ・programs i use a lot
 
 <div align="center">
 
@@ -18,15 +23,15 @@
 
 </div>
 
-・find me here !
+---
 
-
+##・find me here !
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-my%20projects-F4B8D0?style=for-the-badge&logo=github&logoColor=80566B)](https://github.com/Louanavandenbroek-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-my%20profile-F4B8D0?style=for-the-badge&logo=github&logoColor=80566B)](https://github.com/Louanavandenbroek-dev)
 
-[![Repositories](https://img.shields.io/badge/Explore-my%20repositories-F6DDF0?style=for-the-badge&logo=github&logoColor=80566B)](https://github.com/Louanavandenbroek-devtab=repositories)
+[![Repositories](https://img.shields.io/badge/my-projects-F6DDF0?style=for-the-badge&logo=github&logoColor=80566B)](https://github.com/Louanavandenbroek-dev?tab=repositories)
 
 </div>
 
