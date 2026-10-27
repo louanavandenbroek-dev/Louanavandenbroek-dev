@@ -8,11 +8,11 @@ hii, i'm **Louana**! ♡
 
  i ♡ digital art, 3D modelling & Blender
 
-  learning, creating & bringing ideas to life
+ learning, creating & bringing ideas to life
 
 ---
 
-## ・programs i use a lot
+ ♡ ・programs i use a lot
 
 <div align="center">
 
@@ -25,7 +25,7 @@ hii, i'm **Louana**! ♡
 
 ---
 
-##・find me here !
+ ♡・find me here !
 
 <div align="center">
 
@@ -41,7 +41,6 @@ hii, i'm **Louana**! ♡
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,50:F4B8D0,100:E6C5F5&height=100&section=footer" width="100%" alt="Pink wavy footer"/>
 
-**thanks for visiting my little corner of the internet ♡**
 
 ୨୧ · · ─────── · ♡ · ─────── · · ୨୧
 
